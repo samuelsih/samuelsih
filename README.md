@@ -3,7 +3,7 @@
 Welcome to my Github's profile.
 My name is Samuel, now I'm second year student at Sepuluh Nopember Institute of Technology.
 <br/>
-I'm currently interest in Backend now, especially Laravel. Still learning and growing until now 🎉.
+I'm currently interest in Backend now, with Laravel framework from PHP. Still learning and growing until now 🎉.
 <br />
 
 <div>
