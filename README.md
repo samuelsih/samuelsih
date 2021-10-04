@@ -7,7 +7,6 @@ I'm currently interest in Backend now, especially Laravel. Still learning and gr
 <br />
 
 <div>
-  <a href="https://beacons.ai/samuelsih">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=samuelsih&show_icons=true&theme=dark"/>
     <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsih&layout=compact&langs_count=16&theme=dark"/>
 </div>
