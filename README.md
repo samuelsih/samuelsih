@@ -25,7 +25,7 @@ I'm currently interest in Backend now, especially Laravel. Still learning and gr
   <h3 align="left">Connect with me</h3>
   <p align="left">
   <a href="https://www.linkedin.com/in/samuelsihotang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/rnsamuel_" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/i/44/instagram-icon.svg" alt="" height="30" width="40"/></a>
+  <a href="https://www.instagram.com/rnsamuel_" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="" height="30" width="40"/></a>
   </p>  
 </div>
 
