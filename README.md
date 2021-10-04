@@ -3,7 +3,8 @@
 Welcome to my Github's profile.
 My name is Samuel, now I'm second year student at Sepuluh Nopember Institute of Technology.
 <br/>
-I'm currently interest in Backend now, especially Laravel.
+I'm currently interest in Backend now, especially Laravel. Still learning and growing until now 🎉.
+<br />
 
 <div>
   <a href="https://beacons.ai/samuelsih">
@@ -12,8 +13,12 @@ I'm currently interest in Backend now, especially Laravel.
 </div>
   
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> height="30" width="40"
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </div>
 
 <div>
