@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Undergraduate student at Informatics Engineering ITS<br>🌱 I’m currently learning about web development
+🔭 Fresh Graduate at Informatics Engineering ITS<br>🌱 Software Developer Enthusiast
 
 
 ## 🌐 Socials:
