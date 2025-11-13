@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Fresh Graduate at Informatics Engineering ITS<br>🌱 Software Developer Enthusiast
+🔭 🌱 Software Developer Enthusiast
 
 
 ## 🌐 Socials:
